@@ -1,0 +1,11 @@
+String appbarTitle = "Self Assesments";
+String discriptionText = "Good Morning Reuben";
+String headerNameText = "Welcome to our free self-assessments! Take charge of your mental health and well-being by exploring these insightful evaluations.";
+String categories = "Categories";
+String viewAll = "View all";
+String recentText = "Recent Test";
+String selfDiscovery = "Self-Discovery Assesment";
+String topPick = "Top Picks";
+String test = "Test";
+String recentlyTaken = "Recently Taken";
+String result = "Result";
